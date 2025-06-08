@@ -30,6 +30,14 @@
 **Architecture & Patterns:**  
 `MVC` • `REST` • `SOLID Principles` • `Design Patterns` • `Agile Methodology`
 
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
 ---
 
 ### 🚀 Projects & Highlights
@@ -52,11 +60,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasjaiswall&show_icons=true&theme=tokyonight" alt="Vikas's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasjaiswall&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikas1133&show_icons=true&locale=en" alt="Vikas1133" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas1133&" alt="Vikas1133" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikas1133&show_icons=true&locale=en&layout=compact" alt="Vikas1133" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikas1133" alt="Vikas1133" /></a></p>
+
 
 ---
 
@@ -73,6 +81,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/vikasjaiswall/)
 - 📧 [vikasjaiswal794@gmail.com](mailto:vikasjaiswal794@gmail.com)
 - 🐙 [GitHub Repositories](https://github.com/vikasjaiswall?tab=repositories)
+- <a target="_blank" href="https://www.linkedin.com/in/vikasjaiswall" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+- <p><a target="_blank" href="https://twitter.com/VikasJa09548053" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 
 ---
 
@@ -81,3 +91,4 @@
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 ---
+
